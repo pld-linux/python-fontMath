@@ -11,7 +11,7 @@ Version:	0.8.1
 Release:	1
 License:	MIT
 Group:		Libraries/Python
-#Source0Download: https://pypi.org/simple/fontpens/
+#Source0Download: https://pypi.org/simple/fontmath/
 Source0:	https://files.pythonhosted.org/packages/source/f/fontmath/fontMath-%{version}.zip
 # Source0-md5:	86560af85a530245e456835b37994a16
 URL:		https://pypi.org/project/fontmath/
