@@ -8,7 +8,7 @@ Summary:	Set of objects for performing math operations on font data
 Summary(pl.UTF-8):	Zbiór obiektów do wykonywania operacji matematycznych na danych fontów
 Name:		python-fontMath
 Version:	0.8.1
-Release:	4
+Release:	5
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/fontmath/
